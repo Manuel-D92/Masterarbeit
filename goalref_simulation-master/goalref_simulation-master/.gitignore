@@ -1,9 +1,0 @@
-*.pyc
-*.csv
-.idea/
-*.npz
-*.npy
-analyses+vizualization/newTesting.py
-analyses+vizualization/somefile.py
-analyses+vizualization/testing.py
-gui_multipleTabs/GUI_configFile.py

@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55f70054-453e-45fe-a15d-804f33bf3c4c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gGf4GKcjbq7bfFBrKpy6GF16Sg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dauserml\Desktop\Skripte" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dauserml\Desktop\Skripte" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Test_Tensorflow">
+    <configuration name="GUI_Signal_processing_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Skripte" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI_Signal_processing_program.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_Tensorflow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Skripte" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test_Tensorflow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="load_Signals_Frame_Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Skripte" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/load_Signals_Frame_Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="load_wireshark_daten" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Skripte" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/load_wireshark_daten.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plots_MA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Skripte" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plots_MA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.GUI_Signal_processing_program" />
+      <item itemvalue="Python.Test_Tensorflow" />
+      <item itemvalue="Python.plots_MA" />
+      <item itemvalue="Python.load_wireshark_daten" />
+      <item itemvalue="Python.load_Signals_Frame_Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Test_Tensorflow" />
+        <item itemvalue="Python.plots_MA" />
+        <item itemvalue="Python.GUI_Signal_processing_program" />
+        <item itemvalue="Python.load_wireshark_daten" />
+        <item itemvalue="Python.load_Signals_Frame_Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55f70054-453e-45fe-a15d-804f33bf3c4c" name="Default Changelist" comment="" />
+      <created>1597745656626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597745656626</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="294" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606213045140">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="-1386" y="53" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1680.0.1680.1010@-1680.0.1680.1010" timestamp="1604316457672" />
+    <state x="239" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1680.0.1680.1010@0.0.1366.728" timestamp="1603972825804" />
+    <state x="280" y="45" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1604338662307" />
+    <state x="294" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1606213045140" />
+    <state x="489" y="307" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608029107953">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="489" y="307" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1608029107953" />
+    <state width="901" height="466" key="DebuggerActiveHint" timestamp="1606401970730">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="646" height="336" key="DebuggerActiveHint/0.0.1366.728/-1680.0.1680.1010@0.0.1366.728" timestamp="1604138734381" />
+    <state width="901" height="466" key="DebuggerActiveHint/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1606401970730" />
+    <state x="707" y="260" key="EnvironmentVariablesDialog" timestamp="1606213043311">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="707" y="260" key="EnvironmentVariablesDialog/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1606213043311" />
+    <state x="719" y="322" key="FileChooserDialogImpl" timestamp="1607341635506">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="585" y="232" key="FileChooserDialogImpl/0.0.1366.728/-1680.0.1680.1010@0.0.1366.728" timestamp="1603956935347" />
+    <state x="685" y="274" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1604337117949" />
+    <state x="719" y="322" key="FileChooserDialogImpl/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1607341635506" />
+    <state width="1659" height="218" key="GridCell.Tab.0.bottom" timestamp="1608655826121">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="267" key="GridCell.Tab.0.bottom/0.0.1366.728/-1680.0.1680.1010@-1680.0.1680.1010" timestamp="1604317271563" />
+    <state width="1345" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728/-1680.0.1680.1010@0.0.1366.728" timestamp="1604163146575" />
+    <state width="1345" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604090664935" />
+    <state width="1579" height="221" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605618251872" />
+    <state width="1659" height="218" key="GridCell.Tab.0.bottom/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1608655826121" />
+    <state width="1899" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1607007369155" />
+    <state width="1659" height="218" key="GridCell.Tab.0.center" timestamp="1608655826121">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="267" key="GridCell.Tab.0.center/0.0.1366.728/-1680.0.1680.1010@-1680.0.1680.1010" timestamp="1604317271562" />
+    <state width="1345" height="176" key="GridCell.Tab.0.center/0.0.1366.728/-1680.0.1680.1010@0.0.1366.728" timestamp="1604163146574" />
+    <state width="1345" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604090664935" />
+    <state width="1579" height="221" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1605618251872" />
+    <state width="1659" height="218" key="GridCell.Tab.0.center/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1608655826121" />
+    <state width="1899" height="263" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1607007369155" />
+    <state width="1659" height="218" key="GridCell.Tab.0.left" timestamp="1608655826121">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="267" key="GridCell.Tab.0.left/0.0.1366.728/-1680.0.1680.1010@-1680.0.1680.1010" timestamp="1604317271562" />
+    <state width="1345" height="176" key="GridCell.Tab.0.left/0.0.1366.728/-1680.0.1680.1010@0.0.1366.728" timestamp="1604163146574" />
+    <state width="1345" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604090664935" />
+    <state width="1579" height="221" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1605618251872" />
+    <state width="1659" height="218" key="GridCell.Tab.0.left/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1608655826121" />
+    <state width="1899" height="263" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1607007369154" />
+    <state width="1659" height="218" key="GridCell.Tab.0.right" timestamp="1608655826121">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="267" key="GridCell.Tab.0.right/0.0.1366.728/-1680.0.1680.1010@-1680.0.1680.1010" timestamp="1604317271563" />
+    <state width="1345" height="176" key="GridCell.Tab.0.right/0.0.1366.728/-1680.0.1680.1010@0.0.1366.728" timestamp="1604163146574" />
+    <state width="1345" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604090664935" />
+    <state width="1579" height="221" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1605618251872" />
+    <state width="1659" height="218" key="GridCell.Tab.0.right/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1608655826121" />
+    <state width="1899" height="263" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1607007369155" />
+    <state width="1659" height="333" key="GridCell.Tab.1.bottom" timestamp="1608645297534">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="335" key="GridCell.Tab.1.bottom/0.0.1366.728/-1680.0.1680.1010@-1680.0.1680.1010" timestamp="1604260411235" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/-1680.0.1680.1010@0.0.1366.728" timestamp="1604163146555" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604090664935" />
+    <state width="1579" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605618179436" />
+    <state width="1659" height="333" key="GridCell.Tab.1.bottom/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1608645297534" />
+    <state width="1659" height="333" key="GridCell.Tab.1.center" timestamp="1608645297534">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="335" key="GridCell.Tab.1.center/0.0.1366.728/-1680.0.1680.1010@-1680.0.1680.1010" timestamp="1604260411234" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728/-1680.0.1680.1010@0.0.1366.728" timestamp="1604163146554" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1604090664935" />
+    <state width="1579" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1605618179436" />
+    <state width="1659" height="333" key="GridCell.Tab.1.center/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1608645297534" />
+    <state width="1659" height="333" key="GridCell.Tab.1.left" timestamp="1608645297534">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="335" key="GridCell.Tab.1.left/0.0.1366.728/-1680.0.1680.1010@-1680.0.1680.1010" timestamp="1604260411234" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728/-1680.0.1680.1010@0.0.1366.728" timestamp="1604163146554" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1604090664935" />
+    <state width="1579" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1605618179436" />
+    <state width="1659" height="333" key="GridCell.Tab.1.left/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1608645297534" />
+    <state width="1659" height="333" key="GridCell.Tab.1.right" timestamp="1608645297534">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="335" key="GridCell.Tab.1.right/0.0.1366.728/-1680.0.1680.1010@-1680.0.1680.1010" timestamp="1604260411235" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728/-1680.0.1680.1010@0.0.1366.728" timestamp="1604163146554" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1604090664935" />
+    <state width="1579" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1605618179436" />
+    <state width="1659" height="333" key="GridCell.Tab.1.right/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1608645297534" />
+    <state x="420" y="248" key="IDE.errors.dialog" timestamp="1605870545708">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="420" y="248" key="IDE.errors.dialog/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1605870545708" />
+    <state x="505" y="93" key="SettingsEditor" timestamp="1607335521520">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="-1497" y="25" key="SettingsEditor/0.0.1366.728/-1680.0.1680.1010@-1680.0.1680.1010" timestamp="1604316668230" />
+    <state x="149" y="18" key="SettingsEditor/0.0.1366.728/-1680.0.1680.1010@0.0.1366.728" timestamp="1603957458561" />
+    <state x="174" y="21" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1604345438461" />
+    <state x="505" y="93" key="SettingsEditor/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1607335521520" />
+    <state width="848" height="513" key="XDebugger.FullValuePopup" timestamp="1608032968196">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="808" height="437" key="XDebugger.FullValuePopup/0.0.1600.860@0.0.1600.860" timestamp="1605477648287" />
+    <state width="848" height="513" key="XDebugger.FullValuePopup/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1608032968196" />
+    <state x="157" y="-19" width="1496" height="826" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1608304105896">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="75" y="66" width="1217" height="596" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728/-1680.0.1680.1010@0.0.1366.728" timestamp="1603974510065" />
+    <state x="114" y="30" width="1426" height="705" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1605434045600" />
+    <state x="157" y="-19" width="1496" height="826" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1608304105896" />
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1604604646106">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1604604646106" />
+    <state x="468" y="240" width="585" height="592" key="find.popup" timestamp="1606995716375">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="827" y="107" width="558" height="592" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1605617588204" />
+    <state x="468" y="240" width="585" height="592" key="find.popup/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1606995716375" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1608275062753">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="-1177" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1680.0.1680.1010@-1680.0.1680.1010" timestamp="1604323114321" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1608275062753" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/load_Singals_Komplex_and_make_NN.py</url>
+          <line>250</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/load_Look_up_tabels.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/load_Singals_Komplex_and_make_NN.py</url>
+          <line>118</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/load_Singals_Komplex_and_make_NN.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/load_Singals_Komplex_and_make_NN.py</url>
+          <line>124</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/load_Singals_Komplex_and_make_NN.py</url>
+          <line>241</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/load_Singals_Komplex_and_make_NN.py</url>
+          <line>242</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../goalref_simulation-master/gui_multipleTabs/tables/load_Singals_Komplex_and_make_NN.py</url>
+          <line>161</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../goalref_simulation-master/gui_multipleTabs/tables/load_Singals_Komplex_and_make_NN.py</url>
+          <line>156</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../goalref_simulation-master/gui_multipleTabs/tables/load_Singals_Komplex_and_make_NN.py</url>
+          <line>154</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/goalref_simulation-master/goalref_simulation-master/gui_multipleTabs/GUI_ibrahiim_multipleTabs.py</url>
+          <line>6422</line>
+          <option name="timeStamp" value="328" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hockey_glt-mler_five_freq/hockey_glt-mler_five_freq/wireshark_extract.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="509" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hockey_glt-mler_five_freq/hockey_glt-mler_five_freq/wireshark_extract.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="510" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hockey_glt-mler_five_freq/hockey_glt-mler_five_freq/wireshark_extract.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="603" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/versuch timegenerator.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="708" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/versuch timegenerator.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="709" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/versuch timegenerator.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="710" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/versuch timegenerator.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="711" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/look_up_table_model.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="761" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/look_up_table_model.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="762" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/look_up_table_model.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="763" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/look_up_table_model.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="764" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/look_up_table_model.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="765" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/look_up_table_model.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="766" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/look_up_table_model.py</url>
+          <line>128</line>
+          <option name="timeStamp" value="767" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/look_up_table_model.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="768" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/look_up_table_model.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="769" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/look_up_table_model.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="770" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/load_Signals_Frame_Main.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="834" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/look_up_table_with_qualisys_mse.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="850" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/look_up_table_with_qualisys_mse.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="851" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/look_up_table_with_qualisys_mse.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="852" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GUI_class_generate_fingerprinting_table.py</url>
+          <line>370</line>
+          <option name="timeStamp" value="920" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/load_than_save_qualisys_and_wireshark_data.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="951" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GUI_Signal_processing_program.py</url>
+          <line>199</line>
+          <option name="timeStamp" value="1090" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GUI_Signal_processing_program.py</url>
+          <line>201</line>
+          <option name="timeStamp" value="1091" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GUI_Signal_processing_program.py</url>
+          <line>204</line>
+          <option name="timeStamp" value="1092" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GUI_Signal_processing_program.py</url>
+          <line>203</line>
+          <option name="timeStamp" value="1093" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GUI_Signal_processing_program.py</url>
+          <line>202</line>
+          <option name="timeStamp" value="1094" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wireshark_extract.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="1096" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Classification_Sequence.py</url>
+          <line>547</line>
+          <option name="timeStamp" value="1362" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Classification_Sequence.py</url>
+          <line>550</line>
+          <option name="timeStamp" value="1364" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Classification_Sequence.py</url>
+          <line>1172</line>
+          <option name="timeStamp" value="1396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Classification_Sequence.py</url>
+          <line>1236</line>
+          <option name="timeStamp" value="1397" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Classification_Sequence_GoogLeNet.py</url>
+          <line>1300</line>
+          <option name="timeStamp" value="1416" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/NN_Classification_Sequence_Prediction.py</url>
+          <line>328</line>
+          <option name="timeStamp" value="1418" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/NN_Classification_Sequence_Prediction.py</url>
+          <line>307</line>
+          <option name="timeStamp" value="1426" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/NN_Classification_Sequence_Prediction.py</url>
+          <line>245</line>
+          <option name="timeStamp" value="1428" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/NN_Classification_Sequence_Prediction.py</url>
+          <line>238</line>
+          <option name="timeStamp" value="1429" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/NN_Classification_Sequence_Prediction.py</url>
+          <line>242</line>
+          <option name="timeStamp" value="1430" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/NN_Classification_Sequence_Prediction.py</url>
+          <line>239</line>
+          <option name="timeStamp" value="1431" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/NN_Classification_Sequence_Prediction.py</url>
+          <line>266</line>
+          <option name="timeStamp" value="1432" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/NN_Classification_Sequence_Prediction.py</url>
+          <line>235</line>
+          <option name="timeStamp" value="1434" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/NN_Classification_Sequence_Prediction.py</url>
+          <line>224</line>
+          <option name="timeStamp" value="1435" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/NN_01_xyz_to_Classes.py</url>
+          <line>378</line>
+          <option name="timeStamp" value="1445" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test_Tensorflow.py</url>
+          <line>284</line>
+          <option name="timeStamp" value="1447" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test_Tensorflow.py</url>
+          <line>312</line>
+          <option name="timeStamp" value="1449" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/load_Signals_Frame_Main.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="1450" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/load_wireshark_daten.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="1451" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plots_MA.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="1456" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test_Tensorflow.py</url>
+          <line>830</line>
+          <option name="timeStamp" value="1458" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="R_13" />
+        <watch expression="flux" />
+        <watch expression="flux" />
+        <watch expression="antennaList[0].position" />
+        <watch expression="train_images" />
+        <watch expression="X_test" />
+        <watch expression="output.shape.dims[0]" />
+        <watch expression="raw_dataset" />
+        <watch expression="raw_dataset" />
+        <watch expression="model.optimizer" />
+        <watch expression="model.history.history" />
+        <watch expression="history.params['steps'].data" />
+        <watch expression="versuch" />
+        <watch expression="z_minimum_position" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
