@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dauserml/Desktop/Skripte/mlruns/0/0275b7b579494edc91a431f9a530a4fb/artifacts
+end_time: 1601297534857
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 0275b7b579494edc91a431f9a530a4fb
+run_uuid: 0275b7b579494edc91a431f9a530a4fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1601297534826
+status: 3
+tags: []
+user_id: dauserml
